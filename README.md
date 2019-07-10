@@ -26,6 +26,8 @@ Durante la fase de preparación del dataset se incluyó la generación de nuevas
 
 En este repositorio encontraréis en formato .sgv el workflow de KNIME que muestra las transformaciones realizadas sobre los .json.
 
+![](ETL_Dataset.png?raw=true)
+
 ## Modelos probados
 
 - Random Forest (OOB)
