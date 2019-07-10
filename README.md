@@ -4,9 +4,9 @@
 
 En caso de duda no dudéis en contactar con alguno de nosotros.
 
-Juan Enrique Martinez jmartnav@gmail.com
-Pablo Aragonés López pabloaragones97@gmail.com
-Gilberto Jesús Brito gjbrito17@gmail.com
+* Juan Enrique Martinez jmartnav@gmail.com
+* Pablo Aragonés López pabloaragones97@gmail.com
+* Gilberto Jesús Brito gjbrito17@gmail.com
 
 ## Motivación
 
