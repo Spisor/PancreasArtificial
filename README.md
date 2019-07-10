@@ -24,6 +24,8 @@ Realizando transformaciones sobre estos ficheros obtenemos finalmente nuestro da
 
 Durante la fase de preparación del dataset se incluyó la generación de nuevas variables además de limpiar el dato previamente capturado. Este proceso de limpieza consistío en reducir outliers, eliminar nulos, etc.
 
+En este repositorio encontraréis en formato .sgv el workflow de KNIME que muestra las transformaciones realizadas sobre los .json.
+
 ## Modelos probados
 
 - Random Forest (OOB)
