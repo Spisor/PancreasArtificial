@@ -1,4 +1,4 @@
-# PancreasArtificial
+# Pancreas Artificial
 
 ## Participantes
 
@@ -37,7 +37,7 @@ En este repositorio podréis encontrar el notebook de jupyter que hemos elaborad
 
 ## Referencias
 
-https://nbviewer.jupyter.org/gist/mariusae/18a62db9cc32d09dc691fd4f78dcdbfa
-openaps.org
+* https://nbviewer.jupyter.org/gist/mariusae/18a62db9cc32d09dc691fd4f78dcdbfa
+* openaps.org
 
 
